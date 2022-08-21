@@ -1,2 +1,2 @@
 # Javacoding_kavi
-This is asample repository creation
+This is a sample repository creation
